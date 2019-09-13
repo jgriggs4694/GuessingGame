@@ -25,6 +25,7 @@ namespace GUESSTHENUMBER
 
             //counter needs to be in scope
             //let them know if guess is right or wrong
+            //blah
 
             Random rnd = new Random();
             int secretNumber = rnd.Next(1, max + 1);
